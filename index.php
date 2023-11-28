@@ -1,4 +1,3 @@
 <?php
-echo phpversion();
-echo"hellow"
+echo"hellow, this is automatically deploy"
 ?>
