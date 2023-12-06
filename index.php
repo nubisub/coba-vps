@@ -1,3 +1,3 @@
 <?php
-echo"hellow, this is automatically deploy v1.0.0"
+echo"hellow, this is automatically deploy v2.0.0"
 ?>
